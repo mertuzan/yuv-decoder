@@ -1,0 +1,10 @@
+C:\Users\merth\source\repos\Yazlab\Yazlab\bin\Debug\Yazlab.exe.config
+C:\Users\merth\source\repos\Yazlab\Yazlab\bin\Debug\Yazlab.exe
+C:\Users\merth\source\repos\Yazlab\Yazlab\bin\Debug\Yazlab.pdb
+C:\Users\merth\source\repos\Yazlab\Yazlab\obj\Debug\Yazlab.csprojAssemblyReference.cache
+C:\Users\merth\source\repos\Yazlab\Yazlab\obj\Debug\Yazlab.Properties.Resources.resources
+C:\Users\merth\source\repos\Yazlab\Yazlab\obj\Debug\Yazlab.csproj.GenerateResource.cache
+C:\Users\merth\source\repos\Yazlab\Yazlab\obj\Debug\Yazlab.csproj.CoreCompileInputs.cache
+C:\Users\merth\source\repos\Yazlab\Yazlab\obj\Debug\Yazlab.exe
+C:\Users\merth\source\repos\Yazlab\Yazlab\obj\Debug\Yazlab.pdb
+C:\Users\merth\source\repos\Yazlab\Yazlab\obj\Debug\Yazlab.Yazlab.resources
